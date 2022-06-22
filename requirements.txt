@@ -6,7 +6,7 @@ cvxpy==1.0.3
 
 cycler==0.10.0
 
-numpy==1.14.5
+numpy==1.22.0
 
 pandas==0.18.1
 
